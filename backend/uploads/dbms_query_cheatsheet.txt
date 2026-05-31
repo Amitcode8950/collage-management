@@ -1,0 +1,2 @@
+Database Management Systems SQL Query Cheatsheet.
+SELECT, INSERT, UPDATE, JOINs, GROUP BY examples.
